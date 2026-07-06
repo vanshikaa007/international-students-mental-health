@@ -33,25 +33,3 @@ FROM students
 WHERE inter_dom = 'Inter'
 GROUP BY stay
 ORDER BY stay DESC;
-
-## Key Findings
-	•	International students with longer stays report higher depression scores
-and lower social connectedness.
-	•	Acculturative stress peaks in years 1–4, then declines for longer-tenured
-students — suggesting culture shock hits hardest early, while isolation
-and depression build over time.
-	•	Findings support the original study’s link between social connectedness,
-acculturative stress, and depression risk.
-
-## Recommendations
-
-	•	Accessible, subsidized mental healthcare for international students
-	•	Buddy systems pairing international and domestic students
-	•	Long-term (not just first-year) community and peer support programs
-	•	Host family or mentor programs for ongoing cultural adjustment support
-
-## Files
-
-	•	mental_health_analysis.sql — SQL queries
-	•	students.csv — dataset
-	•	writeup.md — full findings and recommendations
