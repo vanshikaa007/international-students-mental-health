@@ -14,7 +14,7 @@ acculturative stress (ASISS) scores.
 - Datalab (SQL notebook environment)
 
 ## Dataset
-`students.csv` — survey data including student type (international/domestic), 
+`students.csv` - survey data including student type (international/domestic), 
 language proficiency, academic level, age, length of stay, and mental health 
 scores (PHQ-9, SCS, ASISS).
 
